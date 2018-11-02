@@ -3,14 +3,14 @@
 #+STARTUP: indent
 #+OPTIONS: toc:nil
 
-isotonic-regression
-multi-output-estimators
-multilabel-classification
-outlier-detection
-imputing-missing-values
-johnson-lindenstrauss-bound
-kernel-ridge-regression-SVR
-explicit-feature-map-approximation
+** isotonic-regression
+** multi-output-estimators
+** multilabel-classification
+** outlier-detection
+** imputing-missing-values
+** johnson-lindenstrauss-bound
+** kernel-ridge-regression-SVR
+** explicit-feature-map-approximation
 
 
 
